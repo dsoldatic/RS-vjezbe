@@ -1,3 +1,4 @@
+#Primjer kolokvije David Soldatic
 import sys
 import os
 
